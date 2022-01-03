@@ -13,6 +13,10 @@ Comprobar experimentalmente el Teorema de superposición, mediante la simulació
 
 2. MARCO TEÓRICO
 
+TEOREMA DE SUPERPOSICIÓN
+
+
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 4. VIDEO
