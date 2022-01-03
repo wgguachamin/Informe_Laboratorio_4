@@ -7,7 +7,9 @@ Comprobar experimentalmente el Teorema de superposición, mediante la simulació
 
 1.2. OBJETIVOS ESPECÍFICOS
 
-- Determinar el fundamento 
+- Determinar el fundamento que aplica el Teorema de superposición para el análisis de circuitos eléctricos que cuentan con varias fuentes.
+- Establecer los pasos básicos que se necesitan para aplicar el Teorema de superposición.
+- Determinar la utilidad del Teorema de superposición en el análisis de circuitos eléctricos.
 
 2. MARCO TEÓRICO
 
