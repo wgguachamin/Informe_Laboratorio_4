@@ -7,7 +7,7 @@ Comprobar experimentalmente el Teorema de superposición, mediante la simulació
 
 1.2. OBJETIVOS ESPECÍFICOS
 
-- 
+- Determinar el fundamento 
 
 2. MARCO TEÓRICO
 
