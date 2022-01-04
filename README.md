@@ -142,4 +142,8 @@ https://youtu.be/HEL9fwg2MGc
 
 7. BIBLIOGRAFÍA
 
+-	Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
+-	Obando, L. (08 de Noviembre de 2019). Obtenido de https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/ 
+-	Zagal, E. (19 de Junio de 2020). Obtenido de https://www.studocu.com/ec/document/universidad-de-las-fuerzas-armadas-de-ecuador/circuitos-electricos-i/teorema-de-superposicion/9070521
+-	Zapata, F. (18 de Enero de 2020). lifeder. Obtenido de https://www.lifeder.com/teorema-de-superposicion/
 
