@@ -19,11 +19,11 @@ TEOREMA DE SUPERPOSICIÓN
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-Arme el circuito que se muestra en la figura 4.1.
+3.1 Arme el circuito que se muestra en la figura 4.1.
 
 ![image](https://user-images.githubusercontent.com/93960809/147992556-2d947b99-ff88-47a2-b3ed-b39a5042cc23.png)
 
-Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+3.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 Medición de voltaje y corriente en Tinkercad:
 
@@ -33,7 +33,7 @@ Simulación Multisim:
 
 ![image](https://user-images.githubusercontent.com/93960809/147992652-509c37e4-7c4d-4c8d-934a-e703924b43c6.png)
 
-Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+3.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 Cuando V2: 12 V es cero
 
@@ -69,7 +69,7 @@ A continuación, la captura de pantalla de corriente y voltaje medidos tanto en 
 
 ![image](https://user-images.githubusercontent.com/93960809/147993110-9e94ba5e-da95-4854-a8a8-198d2d1f648a.png)
 
-Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+3.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 Primero redibujamos el circuito para analizar la corriente y voltaje solo con la fuente de 12V. 
 
@@ -125,6 +125,8 @@ A continuación, las tablas de medición de voltaje y de corriente:
 
 
 4. VIDEO
+
+https://youtu.be/HEL9fwg2MGc
 
 5. CONCLUSIONES
 
