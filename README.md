@@ -129,6 +129,14 @@ A continuación, las tablas de medición de voltaje y de corriente:
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Para calcular el margen de error efectuado en cada una de las mediciones obtenidas de forma analítica y experimental se usa la siguiente formula del cálculo de error.
+
+![image](https://user-images.githubusercontent.com/93415377/147998329-42bb0cff-62c1-42ec-9220-e97779e551f1.png)
+
+Por tanto, el margen de error del cálculo de los datos obtenidos son: 
+
+![image](https://user-images.githubusercontent.com/93415377/147998465-8e136962-4d86-49f6-81c4-0da4f8050985.png)
+
 
 5. VIDEO
 
