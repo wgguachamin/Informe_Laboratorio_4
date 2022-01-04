@@ -15,7 +15,7 @@ Comprobar experimentalmente el Teorema de superposición, mediante la simulació
 
 TEOREMA DE SUPERPOSICIÓN
 
-
+![Mapas mentales con líneas (3)](https://user-images.githubusercontent.com/94008521/147993609-55b34682-f166-41fd-8ea1-08ad98c6b7d9.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
