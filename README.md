@@ -19,6 +19,10 @@ TEOREMA DE SUPERPOSICIÓN
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/94008521/147993753-01e39dd4-17ba-4d72-bc87-d87d110e2593.png)
+
 3.1 Arme el circuito que se muestra en la figura 4.1.
 
 ![image](https://user-images.githubusercontent.com/93960809/147992556-2d947b99-ff88-47a2-b3ed-b39a5042cc23.png)
@@ -123,11 +127,12 @@ A continuación, las tablas de medición de voltaje y de corriente:
 
 ![image](https://user-images.githubusercontent.com/93960809/147993426-4b2fd6f4-c9df-4b8b-bd8d-548e8550d896.png)
 
-
 4. VIDEO
 
 https://youtu.be/HEL9fwg2MGc
 
 5. CONCLUSIONES
+
+
 
 6. BIBLIOGRAFÍA
